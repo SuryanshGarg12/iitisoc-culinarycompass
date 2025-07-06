@@ -11,7 +11,7 @@ Cooking Tips: Access helpful cooking tips and techniques.
 User-friendly Interface: Easy to navigate and use.
 
 
-The Website can be accessed at the following link- https://iitisoc-culinarycompass-vxuujrsx6bvkvuvmlaj7pg.streamlit.app/ 
+The Website can be accessed at this following link- https://iitisoc-culinarycompass-vxuujrsx6bvkvuvmlaj7pg.streamlit.app/ 
 
 Images for reference
 ![image](https://github.com/user-attachments/assets/2af2c368-a5f5-4b7c-924a-908950c4fd5e)
